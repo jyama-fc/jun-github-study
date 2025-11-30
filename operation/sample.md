@@ -1,1 +1,1 @@
-[サンプルPDF](../asets/pdf/AQconsulting-DLVer2502.pdf)
+[サンプルPDF](asets/pdf/AQconsulting-DLVer2502.pdf)
