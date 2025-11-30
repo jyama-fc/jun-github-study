@@ -4,4 +4,4 @@
 
 ## テスト画像の表示
 
-![開店準備の写真](../assets/images/sample.png)
+![ブランドのイメージ写真](../assets/images/27596297_m.png)
