@@ -5,3 +5,4 @@
 ## テスト画像の表示
 
 ![ブランドのイメージ写真](../assets/images/27596297_m.jpg)
+<img src="../assets/images/27596297_m.jpg" width="300">
