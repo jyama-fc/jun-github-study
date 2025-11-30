@@ -1,1 +1,1 @@
-[サンプルPDF](asets/pdf/AQconsulting-DLVer2502.pdf)
+[サンプルPDF](assets/pdf/AQconsulting-DLVer2502.pdf)
